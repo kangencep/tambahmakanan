@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tambahmakanan/static/css/main.37c20ac2.css",
+    "main.js": "/tambahmakanan/static/js/main.943b91db.js",
+    "static/js/787.5480e000.chunk.js": "/tambahmakanan/static/js/787.5480e000.chunk.js",
+    "index.html": "/tambahmakanan/index.html",
+    "main.37c20ac2.css.map": "/tambahmakanan/static/css/main.37c20ac2.css.map",
+    "main.943b91db.js.map": "/tambahmakanan/static/js/main.943b91db.js.map",
+    "787.5480e000.chunk.js.map": "/tambahmakanan/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37c20ac2.css",
+    "static/js/main.943b91db.js"
+  ]
+}
